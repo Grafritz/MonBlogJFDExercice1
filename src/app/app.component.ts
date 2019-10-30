@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Mon Blog JFD';
+  title = 'Mon Blog JFD | Exercice 1';
 
   contentreapeat = 'Enthusiastically grow clicks-and-mortar ROI via fully researched thinking. Dramatically synergize premier results.';
 
