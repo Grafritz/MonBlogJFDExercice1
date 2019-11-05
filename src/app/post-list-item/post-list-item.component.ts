@@ -18,10 +18,10 @@ export class PostListItemComponent implements OnInit {
   }
 
   onLoveIt() {
-    this.loveIts = 1;
+    this.loveIts += 1;
   }
 
   onDontLoveIt() {
-    this.loveIts = -1;
+    this.loveIts -= 1;
   }
 }
